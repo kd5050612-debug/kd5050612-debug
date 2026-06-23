@@ -30,4 +30,10 @@ HI I AM KRISHNA DAS<br>SOFTWARE DEVELOPER<br>CURRENTLY WORKING AS INTERN AT CODE
 
 ![Snake animation](https://raw.githubusercontent.com/kd5050612-debug/kd5050612-debug/output/github-snake.svg)
 ```
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kd5050612-debug/kd5050612-debug/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kd5050612-debug/kd5050612-debug/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kd5050612-debug/kd5050612-debug/output/github-snake.svg">
+</picture>
