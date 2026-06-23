@@ -25,3 +25,9 @@ HI I AM KRISHNA DAS<br>SOFTWARE DEVELOPER<br>CURRENTLY WORKING AS INTERN AT CODE
 [![](https://visitcount.itsvg.in/api?id=kd5050612-debug&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```markdown
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/kd5050612-debug/kd5050612-debug/output/github-snake.svg)
+```
+
