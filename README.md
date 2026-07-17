@@ -109,7 +109,7 @@ This repository contains my daily solutions to LeetCode problems and serves as m
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kd5050612-debug&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kd5050612-debug&theme=github-dark&hide_border=true&v=2">
 
 </div>
 
