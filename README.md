@@ -107,13 +107,13 @@ This repository contains my daily solutions to LeetCode problems and serves as m
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=kd5050612-debug&theme=github-dark-blue&hide_border=true&border_radius=15"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=kd5050612-debug&theme=github-dark&hide_border=true&v=2">
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
