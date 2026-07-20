@@ -34,15 +34,6 @@ Welcome to my **Developer Portfolio & Coding Journey** 🚀
 This repository showcases my work as a **Full Stack Web Developer**, **AI Developer**, and **Data Structures & Algorithms (DSA) Enthusiast**. It serves as a central hub for my projects, coding practice, innovative projects, and continuous learning.
 ---
 
-## 🎯 Goals
-
-- 🌐 Build modern, scalable, and responsive Full Stack Web Applications
-- 🤖 Develop AI-powered applications using Machine Learning & Generative AI
-- ⚡ Master Data Structures & Algorithms through consistent practice
-- 🚀 Contribute to Open Source Projects
-- 💡 Build projects that solve real-world problems
-
----
 
 ## 📈 Current Focus
 
@@ -63,7 +54,7 @@ This repository showcases my work as a **Full Stack Web Developer**, **AI Develo
 
 <div align="center">
 
-<img src="./profile_badge_cyberpunk (1).svg" width="420" alt="Cyberpunk access badge" />
+<img src="./profile_badge_cyberpunk (1).svg" width="1000" alt="Cyberpunk access badge" />
 
 </div>
 
