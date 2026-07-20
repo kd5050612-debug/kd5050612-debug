@@ -54,7 +54,7 @@ This repository showcases my work as a **Full Stack Web Developer**, **AI Develo
 
 <div align="center">
 
-<img src="./profile_badge_cyberpunk (1).svg" width="1000" alt="Cyberpunk access badge" />
+<img src="./profile_badge_cyberpunk (1).svg" width="420" alt="Cyberpunk access badge" />
 
 </div>
 
