@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=My%20Journey&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
@@ -22,31 +23,47 @@
 
 <td width="60%" valign="top">
 
-# 📖 About This Repository
+# 👨‍💻 About This Repository
 
-Welcome to my **LeetCode Journey** 🚀
+Welcome to my **Developer Portfolio & Coding Journey** 🚀
 
-This repository contains my daily solutions to LeetCode problems and serves as my personal DSA learning archive.
+This repository showcases my work as a **Full Stack Web Developer**, **AI Developer**, and **Data Structures & Algorithms (DSA) Enthusiast**. It serves as a central hub for my projects, coding practice, innovative projects, and continuous learning.
+---
 
-### 🎯 Goals
+## 🎯 Goals
 
-- ✅ Solve LeetCode problems every day
-- 📚 Strengthen Data Structures & Algorithms
-- 💡 Improve problem-solving skills
-- 🏆 Prepare for Coding Interviews
-- 🚀 Master Competitive Programming
+- 🌐 Build modern, scalable, and responsive Full Stack Web Applications
+- 🤖 Develop AI-powered applications using Machine Learning & Generative AI
+- ⚡ Master Data Structures & Algorithms through consistent practice
+- 🚀 Contribute to Open Source Projects
+- 💡 Build projects that solve real-world problems
 
-### 📂 Languages Used
+---
 
-- C++
-- Java
-- Python
+## 📈 Current Focus
+
+```text
+🌐 Full Stack Development      ████████████░░░ 85%
+🤖 Artificial Intelligence     ██████████░░░░ 75%
+⚡ Data Structures & Algorithms ███████████░░ 80%
+📚 Continuous Learning         ██████████████ 100%
+```
+
+---
+
+⭐ **If you like my work, don't forget to star this repository!**
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+<div align="center">
+
+<img src="./profile_badge_cyberpunk.svg" width="420" alt="Cyberpunk access badge" />
+
+</div>
+
+<div align="center">
 
 </td>
 
