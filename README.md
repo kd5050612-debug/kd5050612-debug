@@ -117,15 +117,6 @@ This repository showcases my work as a **Full Stack Web Developer**, **AI Develo
 
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kd5050612-debug&theme=github-dark-blue&hide_border=true&border_radius=15"
-    alt="GitHub Streak"
-  />
-</p>
-
 
 # 📈 Contribution Graph
 
@@ -136,23 +127,6 @@ This repository showcases my work as a **Full Stack Web Developer**, **AI Develo
 </div>
 
 ---
-
-## 📊 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kd5050612-debug&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kd5050612-debug&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kd5050612-debug&theme=github_dark"/>
-
-</p>
-
 
 
 # 🚀 Featured Projects
