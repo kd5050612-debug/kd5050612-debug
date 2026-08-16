@@ -115,8 +115,18 @@ This repository showcases my work as a **Full Stack Web Developer**, **AI Develo
 
 ---
 
+<h2 align="center">🏆 GitHub Achievements</h2>
 
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=kd5050612-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
 
+<p align="center">
+  <i>🚀 Building • Learning • Contributing • Growing</i>
+</p>
 
 # 📈 Contribution Graph
 
